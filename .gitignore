@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.o
+*.a
+*.d
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Checkpoints and models
+*.pt
+*.ckpt
+*.pth
+*.tar.gz
+
+# Large data files
+release_data/ccd_cache/components.v*.cif
+release_data/ccd_cache/*.pkl
+release_data/checkpoint/*.pt
+
+# Big MSA files (over 10MB)
+*.sto.gz
+*.a3m
+examples/**/msa/**/non_pairing.sto
+
+# Logs and outputs
+output/
+wandb/
+*.log
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Git related files
+.git/objects/pack/*.pack
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
