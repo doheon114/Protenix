@@ -1,0 +1,182 @@
+[
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGGGGCCACAGCAGAAGCGUUCACGUCGCAGCCCCUGUCAGCCAUUGCACUCCGGCUGCGAAUUCUGCU",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1107/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1107"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGGGGCCACAGCAGAAGCGUUCACGUCGCAGCCCCUGUCAGCCAUUGCACUCCGGCUGCGAAUUCUGCU",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1108/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1108"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "CGCCCGGAUAGCUCAGUCGGUAGAGCAGCGGCUAAAACAGCUCUGGGGUUGUACCCACCCCAGAGGCCCACGUGGCGGCUAGUACUCCGGUAUUGCGGUACCCUUGUACGCCUGUUUUAGCCGCGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1116/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1116"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "UUGGGUUCCCUCACCCCAAUCAUAAAAAGG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1117v2/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1117v2"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGAAUCUCGCCCGAUGUUCGCAUCGGGAUUUGCAGGUCCAUGGAUUACACCAUGCAACGCAGACCUGUAGAUGCCACGCUAGCCGUGGUGAGGGUCGGGUCCAGAUGUCAUUCGACUUUAACGCGCCUAAGCGUUGAAGGCGUGUUAGAGCAGAUAGUUCGCUAUCUGGGGAGCCUGUUCGCAGGCUCAGGAGCCUUCGG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1126/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1126"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGAAUAUCGUCAUGGUGAUUCGUCACCAUGAGGCUAGAUCUCAUAUCUAGCGCUUUCGAGCGCUAGAGUCCUUAUCUAGCCGGUUUAUACUUUCGAGUGUGAACCCGAUAUUCCGCGGAUCACUAUGAGUCGUUCGCGGCUCAUAGUCCGGCUCAAAGGACAUCAUGGCCUGUUCGCAGGUUGUGAUUAUGAGUGAGCCG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1128/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1128"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGAUACGUCUACGCUCAGUGACGGACUCUCUUCGGAGAGUCUGACAUCCGAACCAUACACGGAUGUGCCUCGCCGAACAGUCUACGGCGAGCUUAAGCGCUGGGGACGCCCAACGCAUCACAAAGACUGAGUGAUGAACCAGAAGUAUGGACUGGUUGCGUUGGUGGAGACGGUCGGGUCCAGUUCGCUGUCGAGUAGAG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1136/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1136"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGGAGAGUACUAUUCAGAUGCAGACCGCAAGUUCAGAGCGGUUUGCAUCUAGGGUACGUUUUCGAACGUAUCCUCCGACUAAGUGUAUUCGUAUACUUAGUGCCUUGUGCCUGCUUCGGCAGGCAUGACCCAAAUGUGCCUUUCGGGGCACAUUUCCGGUCAUCCAAGUUCGCUUGGGUGAUGCGGGCGUAUAGGUUCGU",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1138/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1138"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGACACGAGUAACUCGUCUAUCUUCUGCAGGCUGCUUACGGUUUCGUCCGUGUUGCAGCCGAUCAUCAGCACAUCUAGGUUUCGUCCGGGUGUGACCGAAAGGUAAGAUGGAGAGCCUUGUCCC",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1149/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1149"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GGAGCAUCGUGUCUCAAGUGCUUCACGGUCACAAUAUACCGUUUCGUCGGGUGCGUGGCAAUUCGGUGCACAUCAUGUCUUUCGUGGCUGGUGUGGCUCCUCAAGGUGCGAGGGGCAAGUAUAGAGCAGAGCUCC",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1156/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1156"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GCGUACAGGGAACACGCAACCCCGAAGGAUCGGGGAAGGGACGUCGCCAGGGAGGCGAUUCCAUCAGGAUGAUGACGAGGGACUGAAGAGUGGGCGGGGUAAUACCCCGCCCCUUUUU",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1189/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1189"
+    },
+    {
+        "sequences": [
+            {
+                "rnaSequence": {
+                    "sequence": "GCGUACAGGGAACACGCAACCCCGAAGGAUCGGGGAAGGGACGUCGCCAGGGAGGCGAUUCCAUCAGGAUGAUGACGAGGGACUGAAGAGUGGGCGGGGUAAUACCCCGCCCCUUUUU",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./examples/R1190/msa/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "R1190"
+    }
+]
